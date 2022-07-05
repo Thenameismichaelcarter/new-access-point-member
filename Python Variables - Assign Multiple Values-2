@@ -1,0 +1,4 @@
+x = y = z = 'blue'
+print(x)
+print(y)
+print(z)

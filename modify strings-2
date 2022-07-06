@@ -1,0 +1,2 @@
+age = 'grow up'
+print(age.lower())

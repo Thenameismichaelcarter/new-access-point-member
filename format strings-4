@@ -1,0 +1,5 @@
+quantity = 10
+item = 100
+price = 781
+txt = 'i want to pay {2} dollars for {0} pieces of item {1}'
+print(txt.format(quantity, item, price))

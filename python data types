@@ -1,0 +1,5 @@
+just use the type() function to find out the data type and you can do this with any variable that has a value attached to it.
+Ex: x = 5
+print(x)#this displays the variable
+print(type(x))#this displays the data type
+#you should get int as the data type, you can do this to any variable with a value attached to it.

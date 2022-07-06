@@ -1,0 +1,7 @@
+this just goes over the basic data types
+Ex: x = 1234543 
+this would be a int or integer data type no matter if it was a negative number or not what matters is that it is a whole number
+A whole number is what makes a integer
+A float or floating point number is a positive or negative number containing one or more decimals
+Numbers with an e indicate the power of 10 for a float
+Complex numbers are written with a "j" as the imaginary part

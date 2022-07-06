@@ -1,0 +1,2 @@
+here = 'get ready'
+print(here.replace('g', 'n'))

@@ -1,0 +1,2 @@
+facts = ' run around town '
+print(facts.strip())#returns 'run around town'

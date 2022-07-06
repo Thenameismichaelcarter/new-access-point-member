@@ -1,0 +1,2 @@
+a = '''i am here to learn as much as i can'''
+print(a)

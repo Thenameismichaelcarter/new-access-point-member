@@ -1,0 +1,4 @@
+thislist = ['apple', 'banana', 'cherry']
+thistupple = ('watermelon', 'life')
+thislist.extend(thistupple)
+print(thislist)

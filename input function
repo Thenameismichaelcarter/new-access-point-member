@@ -1,0 +1,5 @@
+name = input('name: ')
+menu = 'chicken breast, salad, tea, lemonade, water'
+print('hi ', name, 'what would you like today? our options are ', menu, 'please pick anything you would like to buy',)
+choice = input()
+print('thank you for choosing the', choice, 'please enjoy')
